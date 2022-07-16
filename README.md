@@ -12,5 +12,3 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpazoliveira&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpazoliveira&layout=compact&theme=radical)](https://github.com/tpazoliveira/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpazoliveira&layout=compact)](https://github.com/tpazoliveira/github-readme-stats)
